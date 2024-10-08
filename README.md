@@ -10,7 +10,7 @@ To install the package and its dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 
@@ -112,3 +112,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-repo/eda-streamlit-app.git
+```
