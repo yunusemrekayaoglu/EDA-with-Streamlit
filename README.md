@@ -111,5 +111,5 @@ This class is responsible for loading the data model and providing access to the
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/eda-streamlit-app.git
+https://github.com/yunusemrekayaoglu/EDA-with-Streamlit.git
 ```
